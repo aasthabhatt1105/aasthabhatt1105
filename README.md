@@ -44,6 +44,25 @@
 
 ---
 
+### 🌏 Featured: AI Orbital Data Centers Interactive Poster
+
+**A collaborative ISU project exploring sustainable computing in space**
+
+I was part of the team that created an interactive, immersive poster on **AI-orchestrated orbital data centers**—a groundbreaking concept for decoupling compute growth from terrestrial environmental constraints.
+
+#### Key Highlights:
+- **10x Carbon Reduction** via solar-powered space infrastructure
+- **Zero Water Usage** through passive radiative cooling in the vacuum of space
+- **25ms LEO Latency** for near-real-time edge analytics
+- **AI Integration** for autonomous routing, distributed learning, and fault detection
+- **Sustainability Focus** balancing environmental and societal impacts
+
+**Explore the full interactive poster:** [AI Orbital Data Centers Explorer](https://sounny.github.io/spaceai/posters/AI_for_Space_Engineering_and_Autonomous_Systems/index.html)
+
+This project exemplifies the intersection of space systems engineering, AI autonomy, and sustainable innovation—core to my vision for the future of aerospace.
+
+---
+
 ### 🛰️ Selected Projects
 
 - **AI-SPACE** – Concepts for AI integration in space missions and infrastructure  
