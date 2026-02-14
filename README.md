@@ -91,5 +91,6 @@ This project exemplifies the intersection of space systems engineering, AI auton
 - 💼 LinkedIn: [aasthabhatt](https://linkedin.com/in/aasthabhatt)  
 - ✉️ Email: aasthabhatt1105@gmail.com
 - 🚀 GitHub: [@aasthabhatt1105](https://github.com/aasthabhatt1105)
+- - 📄 Resume: [View Resume](https://aasthabhatt1105.github.io/resume.html)
 
 If you're working on space systems, Mars robotics, satellite communications, or AI in aerospace, I'd be happy to connect and collaborate!
